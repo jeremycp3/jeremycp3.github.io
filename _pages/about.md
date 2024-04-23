@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently employed as a researcher at Huawei, specializing in the development and refinement of algorithms related to image matching, multi-modal matching, retrieval, and three-dimensional reconstruction. Prior to assuming this position, I obtained my master's degree from Wuhan University under the esteemed mentorship of Professor Ruimin Hu. My academic journey commenced with the completion of my undergraduate studies at Dalian University of Technology.
+I am currently employed as a researcher at Huawei, specializing in the development and refinement of algorithms related to image matching, multi-modal matching, retrieval, and three-dimensional reconstruction. Prior to assuming this position, I obtained my master's degree from Wuhan University under the supervision of [Professor Ruimin Hu](https://scholar.google.com/citations?user=c9ZfhU0AAAAJ&hl=zh-CN&oi=ao). My academic journey commenced with the completion of my undergraduate studies at Dalian University of Technology.
 
 A data-driven personal website
 ======
