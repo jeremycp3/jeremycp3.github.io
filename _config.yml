@@ -12,7 +12,7 @@ title                    : "Yilin Xiao(肖益林)"
 title_separator          : "-"
 name                     : &name "Yilin Xiao"
 description              : &description "personal description"
-url                      : https://yilinxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jeremycp3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -31,6 +31,7 @@ author:
   email            : "xylcp3@gmail.com / xiaoyilin@whu.edu.cn" 
 
   # Academic websites
+  
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=eaTkUpQAAAAJ"
 
   # Repositories and software development
