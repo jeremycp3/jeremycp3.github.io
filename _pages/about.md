@@ -23,7 +23,7 @@ Selected Publications
 Pengcheng Shi, **Yilin Xiao**, Wenqing Chen, Jiayuan Li, Yongjun Zhang. IEEE Transactions on Intelligent Vehicles.
 
 *[Guided Local Feature Matching with Transformer](https://www.mdpi.com/2072-4292/15/16/3989)
-Siliang Du*, __Yilin Xiao*__, Jingwei Huang, Mingwei Sun, Mingzhong Liu. Remote Sensing.
+Siliang Du<sup>\*</sup>, __Yilin Xiao<sup>\*</sup>__, Jingwei Huang, Mingwei Sun, Mingzhong Liu. Remote Sensing.
 
 *[Multi-level graph attention network based unsupervised network alignment](https://ieeexplore.ieee.org/document/9524999)
 **Yilin Xiao**, Ruimin Hu, Dengshi Li, Junhang Wu, Yu Zhen, Lingfei Ren. 2021 IEEE 46th Conference on Local Computer Networks (LCN).
@@ -31,5 +31,6 @@ Siliang Du*, __Yilin Xiao*__, Jingwei Huang, Mingwei Sun, Mingzhong Liu. Remote 
 
 Services
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Reviewer**
+ACM MM'2024, IEEE TIV, Information Processing & Management.
 
