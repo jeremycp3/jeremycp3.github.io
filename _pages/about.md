@@ -21,24 +21,34 @@ Selected Publications
 ======
 *Heterophilic Graph Invariant Learning for Out-of-Distribution of Fraud Detection.
 
-Lingfei Ren, Ruimin Hu, Zheng Wang, **Yilin Xiao** and et al. ACM MM’24.
+Lingfei Ren, Ruimin Hu, Zheng Wang, **Yilin Xiao** and et al. 
+
+ACM MM’24.
 
 
 *[Dual-attention-transformer-based semantic reranking for large-scale image localization](https://link.springer.com/article/10.1007/s10489-024-05539-2)
 
-**Yilin Xiao**, Siliang Du, Xu Chen, Mingzhong Liu & Mingwei Sun. Applied Intelligence.
+**Yilin Xiao**, Siliang Du, Xu Chen, Mingzhong Liu & Mingwei Sun. 
+
+Applied Intelligence.
 
 *[A New Horizon: Employing Map Clustering Similarity for LiDAR-based Place Recognition](https://ieeexplore.ieee.org/document/10416737)
 
-Pengcheng Shi, **Yilin Xiao**, Wenqing Chen, Jiayuan Li, Yongjun Zhang. IEEE Transactions on Intelligent Vehicles.
+Pengcheng Shi, **Yilin Xiao**, Wenqing Chen, Jiayuan Li, Yongjun Zhang. 
+
+IEEE Transactions on Intelligent Vehicles.
 
 *[Guided Local Feature Matching with Transformer](https://www.mdpi.com/2072-4292/15/16/3989)
 
-Siliang Du<sup>\*</sup>, __Yilin Xiao<sup>\*</sup>__, Jingwei Huang, Mingwei Sun, Mingzhong Liu. Remote Sensing.
+Siliang Du<sup>\*</sup>, __Yilin Xiao<sup>\*</sup>__, Jingwei Huang, Mingwei Sun, Mingzhong Liu. 
+
+Remote Sensing.
 
 *[Multi-level graph attention network based unsupervised network alignment](https://ieeexplore.ieee.org/document/9524999)
 
-**Yilin Xiao**, Ruimin Hu, Dengshi Li, Junhang Wu, Yu Zhen, Lingfei Ren. 2021 IEEE 46th Conference on Local Computer Networks (LCN).
+**Yilin Xiao**, Ruimin Hu, Dengshi Li, Junhang Wu, Yu Zhen, Lingfei Ren. 
+
+2021 IEEE 46th Conference on Local Computer Networks (LCN).
 
 
 Services
