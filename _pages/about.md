@@ -11,12 +11,19 @@ I will join the Hong Kong Polytechnic University and start my PhD journey under 
 
 News
 ======
+[2024.07] A paper was accepted by ACM MM’24.
+
 [2024.05] A paper was published in Applied Intelligence.
 
 [2024.04] I will serve as the reviewer of ACM MM’24.
 
 Selected Publications
 ======
+*Heterophilic Graph Invariant Learning for Out-of-Distribution of Fraud Detection.
+
+Lingfei Ren, Ruimin Hu, Zheng Wang, **Yilin Xiao** and et al. ACM MM’24.
+
+
 *[Dual-attention-transformer-based semantic reranking for large-scale image localization](https://link.springer.com/article/10.1007/s10489-024-05539-2)
 
 **Yilin Xiao**, Siliang Du, Xu Chen, Mingzhong Liu & Mingwei Sun. Applied Intelligence.
