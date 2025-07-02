@@ -7,18 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I will join the Hong Kong Polytechnic University and start my PhD journey under the guidance of [Professor Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). And I am currently employed as a researcher at Huawei Technologies Co., Ltd, specializing in the development of algorithms related to image matching, multi-modal matching, image retrieval, and 3D reconstruction. Before assuming this position, I obtained my master's degree from Wuhan University under the supervision of [Professor Ruimin Hu](https://scholar.google.com/citations?user=c9ZfhU0AAAAJ&hl=zh-CN&oi=ao). My academic journey commenced with the completion of my undergraduate studies at Dalian University of Technology.
+I am a first-year Ph.D. student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Professor Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). And I have been employed as a researcher at Huawei Technologies Co., Ltd, specializing in the development of algorithms related to 3D vision. Before this, I obtained my master's degree from Wuhan University under the supervision of [Professor Ruimin Hu](https://scholar.google.com/citations?user=c9ZfhU0AAAAJ&hl=zh-CN&oi=ao) and bachelor's degree at Dalian University of Technology.
 
 News
 ======
+[2025.06] Two arxiv papers were released
+
+[2025.05] Two papers were accepted by ACL 2025
+
 [2024.07] A paper was accepted by ACM MM’24.
-
-[2024.05] A paper was published in Applied Intelligence.
-
-[2024.04] I will serve as the reviewer of ACM MM’24.
 
 Selected Publications
 ======
+
+
 *Heterophilic Graph Invariant Learning for Out-of-Distribution of Fraud Detection.
 
 Lingfei Ren, Ruimin Hu, Zheng Wang, **Yilin Xiao** and et al. 
@@ -37,12 +39,6 @@ Applied Intelligence.
 Pengcheng Shi, **Yilin Xiao**, Wenqing Chen, Jiayuan Li, Yongjun Zhang. 
 
 IEEE Transactions on Intelligent Vehicles.
-
-*[Guided Local Feature Matching with Transformer](https://www.mdpi.com/2072-4292/15/16/3989)
-
-Siliang Du<sup>\*</sup>, __Yilin Xiao<sup>\*</sup>__, Jingwei Huang, Mingwei Sun, Mingzhong Liu. 
-
-Remote Sensing.
 
 *[Multi-level graph attention network based unsupervised network alignment](https://ieeexplore.ieee.org/document/9524999)
 
